@@ -236,7 +236,7 @@
 											"top": 207,
 											"width": 360.521484375,
 											"height": 13,
-											"text": "Demande affichage des affectations de stagiaire à session"
+											"text": "Demande affichage des affectations de formateur à cours"
 										},
 										{
 											"_type": "LabelView",
@@ -810,9 +810,9 @@
 											"font": "Arial;13;1",
 											"left": 1877,
 											"top": 367,
-											"width": 189.99169921875,
+											"width": 261.5234375,
 											"height": 13,
-											"text": "liste des affectations"
+											"text": "liste des affectations de formateur a cours"
 										},
 										{
 											"_type": "LabelView",
@@ -845,7 +845,7 @@
 									"font": "Arial;13;0",
 									"left": 1872,
 									"top": 360,
-									"width": 199.99169921875,
+									"width": 271.5234375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF+JKNIhYaH7b0="
@@ -865,7 +865,7 @@
 							"containerChangeable": true,
 							"left": 1872,
 							"top": 360,
-							"width": 199.99169921875,
+							"width": 271.5234375,
 							"height": 41,
 							"nameCompartment": {
 								"$ref": "AAAAAAF+JKNIhYaGyPY="
@@ -893,7 +893,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1721,
-									"top": 337,
+									"top": 336,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -914,7 +914,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 1722,
-									"top": 322,
+									"top": 321,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -935,7 +935,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1718,
-									"top": 366,
+									"top": 365,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -953,7 +953,7 @@
 								"$ref": "AAAAAAF+JKKo7YY4vis="
 							},
 							"lineStyle": 1,
-							"points": "1569:345;1871:371",
+							"points": "1569:345;1871:369",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF+JKOcwoagqeo="
@@ -1233,8 +1233,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 2003,
-									"top": 416,
+									"left": 2023,
+									"top": 421,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1254,8 +1254,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 2017,
-									"top": 411,
+									"left": 2038,
+									"top": 420,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1275,8 +1275,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1974,
-									"top": 427,
+									"left": 1994,
+									"top": 422,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1294,7 +1294,7 @@
 								"$ref": "AAAAAAF+JKNIhYaF42Y="
 							},
 							"lineStyle": 1,
-							"points": "1979:401;1999:455",
+							"points": "2008:401;2010:455",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF+JKfKPod2K+o="
@@ -1721,7 +1721,7 @@
 							},
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 912,
+							"left": 968,
 							"top": 1032,
 							"width": 26,
 							"height": 26
@@ -1888,9 +1888,9 @@
 											"font": "Arial;13;1",
 											"left": 1797,
 											"top": 631,
-											"width": 215.99169921875,
+											"width": 316.43701171875,
 											"height": 13,
-											"text": "Envoyer liste des affectations"
+											"text": "Envoyer liste des affectations de formateur à cours"
 										},
 										{
 											"_type": "LabelView",
@@ -1929,7 +1929,7 @@
 									"font": "Arial;13;0",
 									"left": 1792,
 									"top": 624,
-									"width": 225.99169921875,
+									"width": 326.43701171875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF+JNNXfdKLrLo="
@@ -1951,7 +1951,7 @@
 							"containerChangeable": true,
 							"left": 1792,
 							"top": 624,
-							"width": 225.99169921875,
+							"width": 326.43701171875,
 							"height": 41,
 							"nameCompartment": {
 								"$ref": "AAAAAAF+JNNXfdKKWDg="
@@ -2000,9 +2000,9 @@
 											"font": "Arial;13;1",
 											"left": 1381,
 											"top": 751,
-											"width": 165.4072265625,
+											"width": 261.5234375,
 											"height": 13,
-											"text": "liste des affectations"
+											"text": "liste des affectations de formateur à cour"
 										},
 										{
 											"_type": "LabelView",
@@ -2037,7 +2037,7 @@
 									"font": "Arial;13;0",
 									"left": 1376,
 									"top": 744,
-									"width": 175.4072265625,
+									"width": 271.5234375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF+JNPuyNKq/b4="
@@ -2059,7 +2059,7 @@
 							"containerChangeable": true,
 							"left": 1376,
 							"top": 744,
-							"width": 175.4072265625,
+							"width": 271.5234375,
 							"height": 41,
 							"nameCompartment": {
 								"$ref": "AAAAAAF+JNPuyNKpKuE="
@@ -2108,9 +2108,9 @@
 											"font": "Arial;13;1",
 											"left": 837,
 											"top": 847,
-											"width": 213.80810546875,
+											"width": 307.0234375,
 											"height": 13,
-											"text": "Afficher liste des affectations"
+											"text": "Afficher liste des affectations de formateur à cour"
 										},
 										{
 											"_type": "LabelView",
@@ -2145,7 +2145,7 @@
 									"font": "Arial;13;0",
 									"left": 832,
 									"top": 840,
-									"width": 223.80810546875,
+									"width": 317.0234375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF+JNQlZtLEOTg="
@@ -2167,7 +2167,7 @@
 							"containerChangeable": true,
 							"left": 832,
 							"top": 840,
-							"width": 223.80810546875,
+							"width": 317.0234375,
 							"height": 41,
 							"nameCompartment": {
 								"$ref": "AAAAAAF+JNQlZtLDqV8="
@@ -2194,8 +2194,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1965,
-									"top": 575,
+									"left": 1994,
+									"top": 572,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2215,8 +2215,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1977,
-									"top": 584,
+									"left": 2008,
+									"top": 577,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -2236,8 +2236,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1940,
-									"top": 558,
+									"left": 1965,
+									"top": 561,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2257,7 +2257,7 @@
 								"$ref": "AAAAAAF+JKPY4oax5Co="
 							},
 							"lineStyle": 1,
-							"points": "1988:523;1918:623",
+							"points": "1998:523;1962:623",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF+JNYJ0dNQEfs="
@@ -2290,7 +2290,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1686,
+									"left": 1735,
 									"top": 712,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2311,7 +2311,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1690,
+									"left": 1739,
 									"top": 726,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2332,7 +2332,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1679,
+									"left": 1728,
 									"top": 683,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2353,7 +2353,7 @@
 								"$ref": "AAAAAAF+JNNXfNKJHBM="
 							},
 							"lineStyle": 1,
-							"points": "1827:665;1540:743",
+							"points": "1876:665;1589:743",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF+JNYZvNNh70Q="
@@ -2386,8 +2386,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1217,
-									"top": 817,
+									"left": 1252,
+									"top": 820,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2407,8 +2407,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1220,
-									"top": 832,
+									"left": 1255,
+									"top": 835,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -2428,8 +2428,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1212,
-									"top": 788,
+									"left": 1247,
+									"top": 791,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2449,7 +2449,7 @@
 								"$ref": "AAAAAAF+JNPuyNKo0iY="
 							},
 							"lineStyle": 1,
-							"points": "1375:780;1056:839",
+							"points": "1397:785;1104:839",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF+JNYomdNyYuI="
@@ -2482,8 +2482,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 947,
-									"top": 951,
+									"left": 999,
+									"top": 950,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2503,8 +2503,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 962,
-									"top": 953,
+									"left": 1014,
+									"top": 951,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -2524,8 +2524,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 918,
-									"top": 948,
+									"left": 970,
+									"top": 949,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2543,7 +2543,7 @@
 								"$ref": "AAAAAAF+JNQlZtLCCU4="
 							},
 							"lineStyle": 1,
-							"points": "941:881;925:1031",
+							"points": "989:881;981:1031",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF+JNpPFtSk7qk="
@@ -2565,7 +2565,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF966WU3x03zm4="
 					},
-					"name": "Demande affichage des affectations de stagiaire à session",
+					"name": "Demande affichage des affectations de formateur à cours",
 					"kind": "acceptSignal"
 				},
 				{
@@ -2590,7 +2590,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF966WU3x03zm4="
 					},
-					"name": "liste des affectations"
+					"name": "liste des affectations de formateur a cours"
 				},
 				{
 					"_type": "UMLAction",
@@ -2614,7 +2614,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF966WU3x03zm4="
 					},
-					"name": "Envoyer liste des affectations"
+					"name": "Envoyer liste des affectations de formateur à cours"
 				},
 				{
 					"_type": "UMLAction",
@@ -2622,7 +2622,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF966WU3x03zm4="
 					},
-					"name": "liste des affectations"
+					"name": "liste des affectations de formateur à cour"
 				},
 				{
 					"_type": "UMLAction",
@@ -2630,7 +2630,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF966WU3x03zm4="
 					},
-					"name": "Afficher liste des affectations"
+					"name": "Afficher liste des affectations de formateur à cour"
 				}
 			],
 			"edges": [
